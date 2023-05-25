@@ -1,0 +1,28 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package examenfinal_71275;
+
+/**
+ *
+ * @author PC-050
+ */
+public class ExamenFinal_71275 {
+
+    /**
+     */
+    
+    public static void author71275(){
+        System.out.println("Mi nombre: Lizandro Adolfo Francisco Caamal");
+        System.out.println("Mi Matricula: 71275");
+        System.out.println("Mi correo es: al071275@uacam.mx");
+    }
+    
+    
+    
+    public static void main(String[] args) {
+        author71275();
+    }
+    
+}
